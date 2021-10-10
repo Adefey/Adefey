@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adefe
-- 👀 I’m interested in desktop development
-- 🌱 I’m currently learning C#, C, C++
-- 💞️ I’m looking to collaborate on demoscene
+- 👀 I’m interested in desktop development, WEB development
+- 🌱 I’m currently learning C, C++, python
+- 💞️ I’m looking to collaborate on web projects or any other interesting event
 - 📫 How to reach me vk.com/adefe

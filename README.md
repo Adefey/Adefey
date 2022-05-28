@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adefe
-- 👀 I’m interested in desktop development, WEB development
-- 🌱 I’m currently learning C, C++, python
+- 👀 I’m interested in Desktop Development, WEB Development, Machine Learning
+- 🌱 I’m currently learning C, C++, Python
 - 💞️ I’m looking to collaborate on web projects or any other interesting event
 - 📫 How to reach me vk.com/adefe

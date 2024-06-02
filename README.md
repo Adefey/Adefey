@@ -7,8 +7,8 @@
 
 ### Worlds of my design
 
-- [🍓 Strawberry project VK Miniapp](vk.com/app_strawberry) - Text generation business solution
-- [⛈️ Harmful Cloud ML Project](harmful-cloud.adefe.xyz) - Text generation research
-- [⛏️ BMSTU Minecraft 1.20.4 server](mc.adefe.xyz) - Official BMSTU Minecraft server
-- [🫐 Blueberry project](blueberry.adefe.xyz) - Smart cookbook app
+- [🍓 Strawberry project VK Miniapp](https://vk.com/app_strawberry) - Text generation business solution
+- [⛈️ Harmful Cloud ML Project](https://harmful-cloud.adefe.xyz) - Text generation research
+- [⛏️ BMSTU Minecraft 1.20.4 server](https://mc.adefe.xyz) - Official BMSTU Minecraft server
+- [🫐 Blueberry project](https://blueberry.adefe.xyz) - Smart cookbook app
 - and much, much more...

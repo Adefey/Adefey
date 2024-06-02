@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Adefe
-- 👀 I’m interested in Desktop Development, WEB Development, Machine Learning
-- 🌱 I’m currently learning C, C++, Python
-- 💞️ I’m looking to collaborate on web projects or any other interesting event
-- 📫 How to reach me vk.com/adefe
+![Static Badge](https://img.shields.io/badge/Backend-reg)
+![Static Badge](https://img.shields.io/badge/Python-green)
+![Static Badge](https://img.shields.io/badge/ML-blue)
+
+# Andrei Kolenkov
+

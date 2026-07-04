@@ -19,7 +19,7 @@ Worlds of my design:
 * **[⛈️ Harmful Cloud ML](https://harmful-cloud.adefe.xyz)** — Research platform for simulating social network commenting behavior using AI text generation.
 * **[🫐 Blueberry Cookbook](https://blueberry.adefe.xyz)** — Smart culinary application with decoupled Next.js frontend, Python backend, and isolated DB monitoring (phpMyAdmin/Mongo Express).
 * **[📻 Adefe Personal Radio Station](https://radio.adefe.xyz)** — Self-hosted non-commercial streaming platform broadcasting electronic music.
-* * **[⛏️ BMSTU Minecraft Server](https://mc.adefe.xyz)** — Infrastructure and hosting for the official BMSTU Minecraft (v1.21.1) server.
+* **[⛏️ BMSTU Minecraft Server](https://mc.adefe.xyz)** — Infrastructure and hosting for the official BMSTU Minecraft (v1.21.1) server.
 
 ---
 

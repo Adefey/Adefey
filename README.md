@@ -35,4 +35,4 @@ Worlds of my design:
 
 * **Personal Hub:** [adefe.xyz](https://adefe.xyz)
 * **Professional:** [LinkedIn](https://linkedin.com)
-* **Telegam: ** [Adefe](https://t.me/Adefe)
+* **Telegam:** [Adefe](https://t.me/Adefe)

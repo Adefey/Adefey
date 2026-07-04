@@ -25,9 +25,9 @@ Worlds of my design:
 
 ## 🛠️ Technical Toolkit
 
-* **Languages & Frameworks:** Python (Django, FastAPI), JavaScript
+* **Languages & Frameworks:** Python (Django, FastAPI), C, C++
 * **AI / ML / Data:** Semantic Search, LLM Text Generation, Vector Embeddings
-* **Infrastructure & Ops:** Linux (ArchLinux), Nextcloud, CI/CD, Webpack
+* **Infrastructure & Ops:** Linux (ArchLinux, Fedora, Ubuntu, Debian), Docker, Nextcloud, CI/CD
 
 ---
 

@@ -14,8 +14,9 @@ Welcome to my digital workshop! I build high-performance backend systems, micros
 
 Worlds of my design:
 
-* **[🔍 AI Semantic Search Directory](https://adefe.xyz)** — Intelligent solution for indexing and semantic search of images and texts within file directories.
-* **[🍓 Strawberry Project (VK MiniApp)](https://vk.com)** — Commercial AI text generation business application.
+* **[🗣️ Speech recognition tool](https://github.com/Adefey/shlomo_whisperberg)** — Transcription+Diarization tool build on Whisper and pyannote models
+* **[🔍 AI Semantic Search Directory]([https://adefe.xyz](https://github.com/Adefey/search_dir))** — Intelligent solution for indexing and semantic search of images and texts within file directories.
+* **[🍓 Strawberry Project (VK MiniApp)](https://vk.com/app_strawberry)** — Commercial AI text generation business application.
 * **[⛈️ Harmful Cloud ML](https://harmful-cloud.adefe.xyz)** — Research platform for simulating social network commenting behavior using AI text generation.
 * **[🫐 Blueberry Cookbook](https://blueberry.adefe.xyz)** — Smart culinary application with decoupled Next.js frontend, Python backend, and isolated DB monitoring (phpMyAdmin/Mongo Express).
 * **[📻 Adefe Personal Radio Station](https://radio.adefe.xyz)** — Self-hosted non-commercial streaming platform broadcasting electronic music.
